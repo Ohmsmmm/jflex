@@ -1,2 +1,2 @@
-##RUN
-`java Lexer.java [input.file]`
+# Run
+    java Lexer.java [input.file]
